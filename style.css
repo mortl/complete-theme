@@ -39,6 +39,7 @@ html,body{
 		padding-left:20px;
 		padding-right:20px;
 	}
+
 }
 
 #wrap > .container {
@@ -52,3 +53,4 @@ html,body{
 .container .muted {
 	margin:20px 0;
 }
+
